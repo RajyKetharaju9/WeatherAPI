@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WeatherNowAPI</string>
+    <string name="enter_city_name">/enter_city_name</string>
+    <string name="get_weather">/get_weather</string>
+</resources>
